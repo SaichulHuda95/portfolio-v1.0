@@ -1,4 +1,4 @@
-# Portfolio Website v1.0 & v1.5
+# Portfolio Website v1.0
 
 Selamat datang di repository portfolio saya! 🎉  
 Ini adalah project statis berbasis HTML, CSS, dan JavaScript yang menampilkan profil pribadi, projek-projek, dan testimonial.
